@@ -221,7 +221,7 @@ Transformar el costo en una señal ingenieril ejecutada de forma inmutable en el
 *   **Argumento STAR (Nivel de Disponibilidad):**
     *   **Situación (S):** Riesgo dual: gastar presupuesto de bolsa de valores en un servicio secundario, o permitir que un servicio crítico falle crónicamente.
     *   **Tarea (T):** Definir el nivel de disponibilidad basado en el costo de oportunidad del minuto de inactividad, no en caprichos técnicos.
-    *   **Acción (A):** Balanceamos: si la app genera en dólares $10k/hora y evitar 3 horas de caída cuesta $5k/mes, el ROI empuja a implementar un nueve adicional.
+    *   **Acción (A):** Balanceamos: si la app genera en dólares $10.000/hora y evitar 3 horas de caída cuesta $5.000/mes, el ROI empuja a implementar un nueve adicional.
     *   **Resultado (R):** La inversión es coherente. No pagamos 5 nueves si solo requerimos 3, ni arriesgamos 3 nueves si la hora de caída cuesta cientos de miles.
 
 *   **Evidencias de Industria:**
