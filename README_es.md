@@ -1,4 +1,6 @@
-# Arquitectura Orbital: Axiomas y Prácticas de las Tecnológicas Globales
+# Arquitectura Orbital: Axiomas y Prácticas de las Grandes Tecnológicas Globales
+
+[English](./README.md) · [Français](./README_fr.md) · [Deutsch](./README_de.md)
 
 La confiabilidad y el liderazgo de un producto digital se derivan de la aplicación matemática de principios arquitectónicos inmutables. Las infraestructuras modernas exigen agilidad extrema mientras se combate la fragilidad sistémica y los costos opacos. Este documento formaliza un marco metodológico estructurado en una cuenta regresiva de cuatro satélites tecnológicos que operan en el vacío de la abstracción técnica. Este ecosistema orbital automatiza la resiliencia, la observabilidad, el despliegue y la disrupción algorítmica, operando bajo un diseño determinista centrado en la eficiencia.
 
