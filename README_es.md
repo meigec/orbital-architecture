@@ -402,4 +402,7 @@ La IA es el telescopio que nos permite ver más lejos, pero el astrónomo sigue 
 Un agradecimiento especial a mi líder, Loreto Gonzalez, por la confianza depositada en mí y por brindarme el impulso necesario para atreverme a generar esta documentación.
 
 ---
+[LinkedIn](https://www.linkedin.com/in/egmeier) · [Medium](https://www.medium.com/@meigec88)  
+
+---
 © 2026 Eduardo García Meier. Todos los derechos reservados. Publicado originalmente el 30/09/2026.

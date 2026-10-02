@@ -402,4 +402,7 @@ AI is the telescope allowing us to see further, but the astronomer remains human
 A special thanks to my manager, Loreto Gonzalez, for the trust placed in me and for providing the necessary momentum to dare to generate this documentation.
 
 ---
+[LinkedIn](https://www.linkedin.com/in/egmeier) · [Medium](https://www.medium.com/@meigec88)  
+
+---
 © 2026 Eduardo García Meier. All rights reserved. Originally published 10/02/2026.
